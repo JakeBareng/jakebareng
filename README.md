@@ -10,7 +10,7 @@ Happy coding!
 ![](https://i.imgur.com/x1HVi9Y.gif)
 
 # Let's connect!
-# www.jakebareng.com
+# https://jakebareng.com/
 # www.linkedin.com/in/jakebareng
 
 
