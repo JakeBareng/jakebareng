@@ -7,8 +7,6 @@ This GitHub profile is my playground where I experiment, tinker, and build all s
 Feel free to explore my code, and if you have any questions or suggestions, don't hesitate to shoot me a message.
 Happy coding!
 
-![](https://i.imgur.com/x1HVi9Y.gif)
-
 # Let's connect!
 # https://jakebareng.com/
 # www.linkedin.com/in/jakebareng
