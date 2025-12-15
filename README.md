@@ -2,12 +2,8 @@
 
 ### I love building things for the web 🌐 🖥️
 
-This GitHub profile is my playground where I experiment, tinker, and build all sorts of projects!
-
 Feel free to explore my code, and if you have any questions or suggestions, don't hesitate to shoot me a message.
-Happy coding!
 
-# Let's connect!
 # https://jakebareng.com/
 # www.linkedin.com/in/jakebareng
 
